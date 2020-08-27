@@ -1,0 +1,49 @@
+package adtfractionapp;
+
+class ADTFraction{
+    private int n;  //numerator
+    private int d;  //denomenator
+    //---------------------------------------------------
+    public ADTFraction (){//default constructor
+	//fill the body
+    }
+    //---------------------------------------------------
+    public ADTFraction (int a, int b){//parameter constructor
+	//fill the body
+    }
+    //---------------------------------------------------
+    public void set (int a, int b){//set numerator and denomenator
+	//fill the body
+    }
+    //---------------------------------------------------
+    public ADTFraction plus (ADTFraction x){//add two fractions
+	//fill the body
+    }
+    //---------------------------------------------------
+    public ADTFraction times (int a){//multiply fraction by a number
+	//fill the body
+    }
+    //---------------------------------------------------
+    public ADTFraction times (ADTFraction x){//multiply two fractions
+	//fill the body
+    }
+    //---------------------------------------------------
+    public ADTFraction reciprocal (){//reciprocal of a fraction
+	//fill the body
+    }
+    //---------------------------------------------------
+    public float value (){//numerical value of a fraction
+	//fill the body
+    }
+    //---------------------------------------------------
+    public void display (){//display the fraction in the format n/d
+	//fill the body
+    }
+    //---------------------------------------------------
+}
+
+public class ADTFractionApp {//use the class ADTFraction and its methods
+    public static void main(String[] args) {
+	//fill the body
+    }
+}
